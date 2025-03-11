@@ -6,8 +6,19 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "naruto",
+			"dialog" : "jeoiawehioawheoiawehoaiwheoiawheioa meow",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker": "naruto",
+			"dialog" : "meow meow meow meow meow"
+
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSPeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
